@@ -9,7 +9,7 @@ I am working part time as Prolog developer writing scripts for natural text proc
 ### My tech skills
 <ul>
   <li>
-    <p><b>Frontend</p>
+    <p><b>Frontend</b></p>
     <ul>
       <li>Javascript</li>
       <li>HTML5</li>
@@ -17,11 +17,10 @@ I am working part time as Prolog developer writing scripts for natural text proc
     </ul>
   </li>
   <li>
-    <p><b>Backend</p>
+    <p><b>Backend</b></p>
     <ul>
       <li>
         <ul>
-            <p><b>Backend</p>
             <li>Maven</li>
             <li>JavaFX</li>
         </ul>
@@ -29,7 +28,7 @@ I am working part time as Prolog developer writing scripts for natural text proc
     </ul>
   </li>
   <li>
-    <p><b>Other technologies</p>
+    <p><b>Other technologies</b></p>
     <ul>
       <li>Prolog</li>
       <li>SQL</li>
