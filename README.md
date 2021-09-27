@@ -12,16 +12,28 @@ I am working part time as Prolog developer writing scripts for natural text proc
     <p><b>Frontend</p>
     <ul>
       <li>Javascript</li>
+      <li>HTML5</li>
+      <li>CSS3</li>
     </ul>
   </li>
   <li>
     <p><b>Backend</p>
     <ul>
+      <li>
+        <ul>
+            <p><b>Backend</p>
+            <li>Maven</li>
+            <li>JavaFX</li>
+        </ul>
+      </li>
     </ul>
   </li>
   <li>
-    <p><b>Backend</p>
+    <p><b>Other technologies</p>
     <ul>
+      <li>Prolog</li>
+      <li>SQL</li>
+      <li>GIT, Github and Gitlab</li>
     </ul>
   </li>
 </ul>
