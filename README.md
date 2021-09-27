@@ -20,6 +20,7 @@ I am working part time as Prolog developer writing scripts for natural text proc
     <p><b>Backend</b></p>
     <ul>
       <li>
+        <p>Java</p>
         <ul>
             <li>Maven</li>
             <li>JavaFX</li>
