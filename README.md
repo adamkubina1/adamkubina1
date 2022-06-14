@@ -7,36 +7,14 @@ I’m @adamkubina1 software engineering student based in Prague, studying at <a 
 I am working part time as Prolog developer writing scripts for natural text processing.
 
 ### My tech skills
-<ul>
-  <li>
-    <p><b>Frontend</b></p>
-    <ul>
-      <li>Javascript</li>
-      <li>HTML5</li>
-      <li>CSS3</li>
-    </ul>
-  </li>
-  <li>
-    <p><b>Backend</b></p>
-    <ul>
-      <li>
-        <p>Java</p>
-        <ul>
-            <li>Maven</li>
-            <li>JavaFX</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-  <li>
-    <p><b>Other technologies</b></p>
-    <ul>
-      <li>Prolog</li>
-      <li>SQL</li>
-      <li>GIT, Github and Gitlab</li>
-    </ul>
-  </li>
-</ul>
+- Frontend 
+  - HTML5, CSS3 + Bootstrap and Bulma
+  - Javascript, React
+- PHP, Codeigniter
+- Java, JavaFX
+- MySQL, Oracle 
+- XML, XSLT, XML schemas
+- Prolog
 
 ### How to contact me
 You can reach me at my <a href="https://www.linkedin.com/in/adam-kubina-dev/" target="_blank">Linkedin profile</a>,
