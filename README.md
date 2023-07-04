@@ -8,9 +8,9 @@
 
 # :man_technologist: &nbsp;About Me
 
-- CS student at <a target="_blank" href="https://fis.vse.cz/"><img src="https://feedbotvsefisbotweb6272.blob.core.windows.net/upload/thumbnails/logo-horizontal-cs-square-05-removebg-preview.png" alt="FIS VSE logo" width="100" margin-left="5" bottom="0"/></a>
+- Masters IT student at <a target="_blank" href="https://fis.vse.cz/"><img src="https://filiphavlik.eu/images/vse_fis_logo.png" alt="FIS VSE logo" width="100" margin-left="5" bottom="0"/></a>
 - Freelancing web developer 🌐
-- Particulary enjoying frontend development and design 🖼️
+- Particularly enjoying frontend development and design 🖼️
 
 ---
 
