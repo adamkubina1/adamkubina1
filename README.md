@@ -2,13 +2,10 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/adam-kubina-dev/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
-<p align="center">
-<a href="https://www.buymeacoffee.com/seraphA" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p>
 
 # :man_technologist: &nbsp;About Me
 
-- Masters IT student at <a target="_blank" href="https://fis.vse.cz/"><img src="https://filiphavlik.eu/images/vse_fis_logo.png" alt="FIS VSE logo" width="100" margin-left="5" bottom="0"/></a>
+- Masters student at <a target="_blank" href="https://fis.vse.cz/"><img src="https://filiphavlik.eu/images/vse_fis_logo.png" alt="FIS VSE logo" width="100" margin-left="5" bottom="0"/></a>
 - Freelancing web developer 🌐
 - Particularly enjoying frontend development and design 🖼️
 
@@ -52,6 +49,5 @@
 <p>
 <a target="_blank" href="https://www.linkedin.com/in/adam-kubina-dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="40" height="40"/>&nbsp;</a>
 <a target="_blank" href="mailto: adam.kubina@seznam.cz"><img src="https://www.freepnglogos.com/uploads/email-png/blue-email-box-circle-png-transparent-icon-2.png" title="Mail" alt="Mail" width="40" height="40"/>&nbsp;</a>
-<a target="_blank" href="https://www.instagram.com/adam.kubina/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" title="Instagram" alt="Instagram" width="40" height="40"/>&nbsp;</a>
 </p>
 
